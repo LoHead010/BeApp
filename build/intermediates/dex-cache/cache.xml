@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\hartc\Desktop\BeApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\hartc\Desktop\BeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_01a02cb27a879a14713e3df34404c0776b321186\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hartc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\hartc\Desktop\BeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_389db342fa3cc852e683cac1794b81b1ef8f8280\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hartc\Desktop\BeApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="40980b7dfac794a789d178b1614ac25cad4a0b2e">
+        <dex dex="C:\Users\hartc\Desktop\BeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_06ce3933c8663a8ea5ed5d276e085d77ea720002\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hartc\Desktop\BeApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\hartc\Desktop\BeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_7aca5eac3309529e63c6be0b287b2a3e919455a4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hartc\Desktop\BeApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\hartc\Desktop\BeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_95fdb3faa63276f1b4b4959de7cbbbdaccf46d3a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hartc\Desktop\BeApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\hartc\Desktop\BeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_61321526f63fe4b980e4690adf87ca1e88e41ef0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hartc\Desktop\BeApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="43cd5a6807722ffb4b5f7f7f2167b6d875796fa6">
+        <dex dex="C:\Users\hartc\Desktop\BeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e9e4574e84af5a125634efb1598613389b389d8a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\hartc\Desktop\BeApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\hartc\Desktop\BeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_7afe50988d186e0cafd0736af648d2cf521a58ca\classes.dex" />
+    </item>
+
+</items>
